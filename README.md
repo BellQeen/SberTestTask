@@ -1,2 +1,2 @@
 # TestTaskSber
-Test task for Sber
+Test task for Sber (CRUD application)
